@@ -8,7 +8,8 @@ Team: ave-2013
 - data: Input data and intermedia data
 - material: Materials for representation and data virsulization
 
-In `src` file, different approach's codes are stored in compare_versions file.
+In `src` directory, different approach's codes are stored in compare_versions
+directory.
 
 In repr_songs, there is the code which select the representative terms and
 songs.
