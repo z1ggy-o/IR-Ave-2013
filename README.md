@@ -60,3 +60,8 @@ previously.
 
 Each file uses different approach correspond to `compare_versions`. (Need to be
 refactoried)
+
+### Survery Link
+
+We had survery for our algorithm.
+Here is the link : https://forms.gle/fLD5djsMMnRR3PVX8
