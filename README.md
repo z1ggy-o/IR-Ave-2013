@@ -63,5 +63,5 @@ refactoried)
 
 ### Survery Link
 
-We had survery for our algorithm.
+We had survey for our algorithm.  
 Here is the link : https://forms.gle/fLD5djsMMnRR3PVX8
